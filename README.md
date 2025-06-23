@@ -12,7 +12,6 @@ It supports unlimited number inputs and performs basic arithmetic operations lik
 
 The calculator keeps running until the user chooses to exit.
 
----
 
 ## Features
 
@@ -21,7 +20,6 @@ The calculator keeps running until the user chooses to exit.
 - 3. Works in a loop until user types exit
 - 4. Handles invalid inputs gracefully
 
----
 
 ## How It Works
 
@@ -31,14 +29,12 @@ The calculator keeps running until the user chooses to exit.
 4. The result is calculated and displayed.
 5. It loops back for the next calculation until the user types exit.
 
----
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Make sure Python is installed.
 2. Save the code in a file, for example: calculator.py
 3. Open Terminal or Command Prompt.
 4. Run using:
 
-```bash
 python calculator.py
