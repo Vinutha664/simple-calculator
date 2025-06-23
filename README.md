@@ -2,7 +2,7 @@
 A simple and user-friendly calculator built using Python.  
 It supports unlimited number inputs and performs basic arithmetic operations like:
 
-➤ Addition (+)  
+➤Addition (+)  
 ➤ Subtraction (-)  
 ➤ Multiplication (*)  
 ➤ Division (/)  
@@ -14,16 +14,16 @@ The calculator keeps running until the user chooses to exit.
 
 ---
 
-## ✨ Features
+## Features
 
-- ✅ No number input limit
-- ✅ Clean and clear user interaction
-- ✅ Works in a loop until user types exit
-- ✅ Handles invalid inputs gracefully
+- 1. No number input limit
+- 2. Clean and clear user interaction
+- 3. Works in a loop until user types exit
+- 4. Handles invalid inputs gracefully
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. User is prompted to enter the first number.
 2. Then, the user chooses an operator (+, -, *, /, etc.).
